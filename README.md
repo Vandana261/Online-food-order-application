@@ -12,9 +12,13 @@ Task (Activities)
 Skills used in the project and their usage in the industry are given below:
 
 • HTML: Hyper Text Markup Language (HTML) is the standard markup language that allows developers to build web pages.
+
 • CSS: Cascading Style Sheets (CSS) is a style sheet language that enables developers to enhance the aesthetics of HTML elements.
+
 • JavaScript: JavaScript (JS) is a scripting language that allows developers to create dynamic and interactive web applications.
+
 • Bootstrap: Bootstrap is the most popular HTML, CSS, and JS framework that helps developers to create responsive and mobile-first websites.
+
 
 ![1](https://github.com/Vandana261/Online-food-order-application/assets/163227553/7e616e11-a39e-4129-a3f4-f1637d68625b)
 
